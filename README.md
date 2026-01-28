@@ -32,4 +32,6 @@ Make sure you have pandas, seaborn, and matplotlib installed.
 Run the EDA notebook.ipynb file.
 
 # Why I made this
-I’m a first-year student applying for the LFX Mentorship. I wanted to show that I can do more than just basic coding—I can actually find insights in a real dataset that could help the community improve its data integrity.
+I am a first-year student passionate about Data Science and Open Source. I created this audit to demonstrate my ability to go beyond basic coding by extracting actionable insights from real-world datasets.
+
+My goal is to contribute to the CHAOSS community’s data integrity through rigorous Data Analysis. By becoming an active, helpful contributor today, I am building the foundational skills necessary for future mentorship opportunities (such as LFX or GSoC) and a long-term path in Data Science.
