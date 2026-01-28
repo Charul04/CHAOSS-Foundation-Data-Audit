@@ -2,7 +2,7 @@
 Hi! This is my analysis of the project metadata from the CHAOSS datasets. I wanted to see how the data looks for different foundations and if there are any big gaps in the information.
 
 # What I did
-I used PythoncPandas to analyze the structured_project_analysis.csv file and created several visualizations. 
+I used Python Pandas to analyze the structured_project_analysis.csv file and created several visualizations. 
 
 # My Main Findings
 Technical Missing Values: I performed a NaN analysis to ensure the dataset wouldn't cause errors during visualization.
